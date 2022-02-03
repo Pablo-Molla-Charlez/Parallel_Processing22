@@ -22,8 +22,24 @@ fin
 ('hola', 2)
 ('hola', 3)
 ('hola', 4)
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp /home/pmolla/untitled.py /home/pmolla/0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript sesion.txt[Keion.txtm seseion.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kscriptm seseion.txt[1P seseion.txt[1Pion.txtcp /home/pmolla/untitled.py /home/pmolla/0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Prm /home/pmolla/untitled.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kpython 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp /home/pmolla/untitled.py /home/pmolla/0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript sesion.txt[Keion.txt[1Pion.txtcp /home/pmolla/untitled.py /home/pmolla/0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Prm /home/pmolla/untitled.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ktouch /home/pmolla/0_[K[K1_procesos.py
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py[1P_procesos.py1_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp /home/pmolla/untitled.py /home/pmolla/0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript sesion.txt[Keion.txtm seseion.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kscriptm seseion.txt[1P seseion.txt[1Pion.txtcp /home/pmolla/untitled.py /home/pmolla/0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Prm /home/pmolla/untitled.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kpython 0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp /home/pmolla/untitled.py /home/pmolla/0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript sesion.txt[Keion.txt[1Pion.txtcp /home/pmolla/untitled.py /home/pmolla/0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Prm /home/pmolla/untitled.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ktouch /home/pmolla/0_[K[K1_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/1_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 0_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm /home/pmolla/untitled.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Ppython 0_procesos.py[1P_procesos.py1_procesos.py
   File "1_procesos.py", line 6
     print (f"hola soy {value} vuelta {i}")
         ^
@@ -86,8 +102,10 @@ hola soy {value} vuelta {i}
 hola soy {value} vuelta {i}
 hola soy {value} vuelta {i}
 adios
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/1_procesos.py[1P_procesos.py2_procesos.py
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/2_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 1_procesos.py[1P_procesos.py2_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 1_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/1_procesos.py[1P_procesos.py2_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/2_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 1_procesos.py[1P_procesos.py2_procesos.py
   File "2_procesos.py", line 7
     print (f"hola soy {current_process().name}, " + \
         ^
@@ -125,8 +143,12 @@ hola soy {current_process().name}, {current_process().pid}, {current_process().i
 hola soy {current_process().name}, {current_process().pid}, {current_process().is_alive()}, vuelta {i}
 hola soy {current_process().name}, {current_process().pid}, {current_process().is_alive()}, vuelta {i}
 adios
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 2_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/2_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/2_procesos.py[1P_procesos.py3_procesos.py
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/3_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 2_procesos.py[1P_procesos.py3_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 2_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/2_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 1_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/2_procesos.py[1P_procesos.py3_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/3_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 2_procesos.py[1P_procesos.py3_procesos.py
   File "3_procesos.py", line 14
 SyntaxError: Non-ASCII character '\xe2' in file 3_procesos.py on line 14, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 3_procesos.py
@@ -139,8 +161,10 @@ hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}
 hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}
 hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}
 hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 3_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/3_procesos.py[1P_procesos.py4_procesos.py
-]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/4_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 3_procesos.py[1P_procesos.py4_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ python 3_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch /home/pmolla/3_procesos.py[1P_procesos.py4_procesos.py
+]0;pmolla@simba: ~[01;32mpmolla@simba[00m:[01;34m~[00m$ touch /home/pmolla/4_procesos.py
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Ppython 3_procesos.py[1P_procesos.py4_procesos.py
   File "4_procesos.py", line 6
     c.value = c.value + 1
     ^
